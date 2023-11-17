@@ -1,0 +1,7 @@
+--target=arm-arm-none-eabi -mcpu=cortex-m3 -masm=auto -c
+-gdwarf-3
+-I./RTE/_Target_1
+-IC:/Users/User/AppData/Local/Arm/Packs/ARM/CMSIS/5.7.0/CMSIS/Core/Include
+-IC:/Users/User/AppData/Local/Arm/Packs/Atmel/SAM3N_DFP/1.0.62/include
+-Wa,armasm,--pd,"__UVISION_VERSION SETA 531" -Wa,armasm,--pd,"_RTE_ SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1" -Wa,armasm,--pd,"__SAM3N4A__ SETA 1"
+-o ./objects/test.o "test.s"
