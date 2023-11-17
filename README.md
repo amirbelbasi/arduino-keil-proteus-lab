@@ -25,5 +25,3 @@
 ![image](https://github.com/amirbelbasi/microprocessor-assembly-lab/assets/58425120/a1de6ab3-209e-4883-9e2c-c209eb75151a)
 
 ![image](https://github.com/amirbelbasi/microprocessor-assembly-lab/assets/58425120/9b7f9832-e832-4fa0-ae8b-5de2ac819098)
-
-![image](https://github.com/amirbelbasi/microprocessor-assembly-lab/assets/58425120/2c071130-7c67-460d-929f-920c9f7aec0a)
