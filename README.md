@@ -8,8 +8,6 @@
 
 ![image](https://github.com/amirbelbasi/microprocessor-assembly-lab/assets/58425120/a71028c8-d74e-46fb-afb6-9c53ba67a643)
 
-![image](https://github.com/amirbelbasi/microprocessor-assembly-lab/assets/58425120/a8db1339-6fe0-4528-9628-308d00684762)
-
 ![image](https://github.com/amirbelbasi/microprocessor-assembly-lab/assets/58425120/f5e3ce7c-7aa8-48fb-b996-92eaace2a8e9)
 
 ![image](https://github.com/amirbelbasi/microprocessor-assembly-lab/assets/58425120/f02619ec-8231-4262-8fe5-999bf23136d9)
