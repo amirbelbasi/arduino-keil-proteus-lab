@@ -2,7 +2,7 @@
 
 * Various Microprocessor & Assembly Mini Projects | Microprocessor and Assembly Language Lab
   * Developed various microprocessor and assembly mini projects in Keil µVision, Arduino, and Proteus environments
-  * Utilized Assembly, Arduino MEGA 2560 board, digital oscilloscope, virtual terminal, 2x16 LCD, 4x4 keyboard, Keil µVision, Arduino, Proteus
+  * Utilized Assembly, Keil µVision, Arduino, Proteus, Arduino MEGA 2560 board, digital oscilloscope, virtual terminal, 2x16 LCD screen, 4x4 keyboard, and servomotor
 
 ![image](https://github.com/amirbelbasi/microprocessor-assembly-lab/assets/58425120/f141e02f-c76d-46bb-80ac-1b63e2dfe09a)
 
@@ -22,10 +22,10 @@
 
 ![image](https://github.com/amirbelbasi/microprocessor-assembly-lab/assets/58425120/69c2726f-4b63-4e4f-a643-9dadcb3315c7)
 
-![image](https://github.com/amirbelbasi/microprocessor-assembly-lab/assets/58425120/55bb6ed4-35c2-413a-93da-2c6e530098ca)
-
 ![image](https://github.com/amirbelbasi/microprocessor-assembly-lab/assets/58425120/d44b7b26-be3a-4b2c-a99f-cc14d33c1c87)
 
 ![image](https://github.com/amirbelbasi/microprocessor-assembly-lab/assets/58425120/a1de6ab3-209e-4883-9e2c-c209eb75151a)
 
 ![image](https://github.com/amirbelbasi/microprocessor-assembly-lab/assets/58425120/9b7f9832-e832-4fa0-ae8b-5de2ac819098)
+
+![image](https://github.com/amirbelbasi/microprocessor-assembly-lab/assets/58425120/2c071130-7c67-460d-929f-920c9f7aec0a)
