@@ -1,4 +1,4 @@
-# microprocessor-assembly-lab
+# arduino-keil-proteus-lab
 
 * Various Microprocessor & Assembly Mini Projects | Microprocessor and Assembly Language Lab
   * Developed various microprocessor and assembly mini projects in Keil µVision, Arduino, and Proteus environments
